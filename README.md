@@ -5,4 +5,4 @@ Joshua Hong
 
 https://cse110-lab10-joshua-j-hong.canny.io/ 
 
-The difference between A (on) and B (off) for our SecondSplit.html is that A enables the font to be Helvetica while B stays as the default Arial.
+The difference between A (off) and B (on) for our SecondSplit.html is that B enables the font to be Helvetica while A stays as the default Arial.
